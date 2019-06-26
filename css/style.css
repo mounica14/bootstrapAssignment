@@ -1,0 +1,22 @@
+#slides{
+  position:relative;
+  margin-top:210px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(255, 200, 180);
+  background:#222020;
+  padding: 30px 0px;
+  color: rgb(113, 233, 183);
+}
+.footer-bottom{
+  padding-inline: 20px;
+}
+.footer-icon ul li{
+  display:inline;
+width:100%;
+height:auto;
+}
